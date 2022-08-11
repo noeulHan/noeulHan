@@ -91,8 +91,12 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
+<!-- 뱃지 등록하기 -->
 <img src="https://img.shields.io/badge/홍길동-000000?style=badge&logo=Badoo&logoColor=ffffff">
 <img src="https://img.shields.io/badge/홍길동-000000?style=for-the-badge&logo=Badoo&logoColor=ffffff">
 <img src="https://img.shields.io/badge/홍길동-000000?style=plastic&logo=Burton&logoColor=ffffff">
 <img src="https://img.shields.io/badge/홍길동-000000?style=flat&logo=Burton&logoColor=ffffff">
+
+<!-- 깃허브 상태(스탭-step) 등록하기 -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical) -->
+
