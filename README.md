@@ -92,4 +92,4 @@ Here are some ideas to get you started:
 </p>
 
 
-<img src="https://img.shields.io/badge/홍길동-000000?style=badge&logo=Badoo&logoColor=2932E1">
+<img src="https://img.shields.io/badge/홍길동-000000?style=badge&logo=Badoo&logoColor=ffffff">
