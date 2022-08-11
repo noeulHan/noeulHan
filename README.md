@@ -99,4 +99,6 @@ Here are some ideas to get you started:
 
 <!-- 깃허브 상태(스탭-step) 등록하기 -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical) -->
+<!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=merko)
