@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=ffc7c8&height=200&section=header&text=HAN%20NO-EUL&fontSize=90&fontColor=8885a1&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=ffc7c8&height=200&section=header&text=HAN%20NO-EUL&fontSize=80&fontColor=8885a1&animation=fadeIn)
 <br/><br/>
 <div align="center">
  <h2>🍓Introduce🍓</h2><br/>
