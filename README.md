@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=ffc7c8&height=200&section=header&text=HAN%20NO-EUL&fontSize=80&fontColor=8885a1&animation=fadeIn)
 <br/><br/>
 <div align="center">
- <h2>🍓Introduce🍓</h2><br/>
+ <h2>🍓 Introduce 🍓</h2><br/>
  안녕하세요🙌🏻 저는 한노을입니다.<br/>
  백엔드와 프론트 둘 다 관심을 가지고 공부하고 있어요!<br/>
  멋있는 개발자가 되기 위해 열심히 노력할게요 ☺<br/><br/>
@@ -16,7 +16,7 @@
  </a>
  <br/><br/><br/><br/>
  
- <h2>🛠Tech Stack🛠</h2><br/>
+ <h2>🛠 Tech Stack 🛠</h2><br/>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">&nbsp;
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Font Awesome-528DD7?style=for-the-badge&logo=FontAwesome&logoColor=white">
   <br/><br/><br/><br/>
  
- <h2>✏Study✏</h2><br/>
+ <h2>✏ Study ✏</h2><br/>
  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
