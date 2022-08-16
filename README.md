@@ -5,8 +5,12 @@
  안녕하세요🙌🏻 저는 한노을입니다.<br/>
  백엔드와 프론트 둘 다 관심을 가지고 공부하고 있어요!<br/>
  멋있는 개발자가 되기 위해 열심히 노력할게요 ☺<br/><br/>
+ <a href="https://instagram.com/olnu.n">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+ </a>
+ <a href="mailto:noeul080805@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+ </a>
  <br/><br/><br/><br/><br/>
  
  <h2>🛠Tech Stack🛠</h2><br/>
@@ -28,7 +32,6 @@
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
  <br/><br/><br/>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noeulHan&langs_count=8)](https://github.com/noeulHan/github-readme-stats)<br/><br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noeulHan&show_icons=true&theme=radical)
 
 </div>
