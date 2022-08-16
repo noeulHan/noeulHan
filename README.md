@@ -14,7 +14,7 @@
  <a href="mailto:noeul080805@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
  </a>
- <br/><br/><br/><br/><br/>
+ <br/><br/><br/><br/>
  
  <h2>🛠Tech Stack🛠</h2><br/>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;
@@ -27,13 +27,13 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/apache tomcat-D22128?style=for-the-badge&logo=apachetomcat&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/Font Awesome-528DD7?style=for-the-badge&logo=FontAwesome&logoColor=white">
-  <br/><br/><br/><br/><br/>
+  <br/><br/><br/><br/>
  
  <h2>✏Study✏</h2><br/>
  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
- <br/><br/><br/>
+ <br/><br/>
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noeulHan&show_icons=true&theme=radical)<br/>
 
