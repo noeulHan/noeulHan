@@ -21,9 +21,7 @@
  </a><br/>
  <a href="http://49.142.157.251:9090/javagreenS_hne/">
   <img src="https://img.shields.io/badge/Spring Project Server-000000?style=for-the-badge&logoColor=white">
- </a><br/>
-  https://github.com/noeulHan/Spring-p</br>
-  http://49.142.157.251:9090/javagreenS_hne/
+ </a>
  <br/><br/><br/><br/>
 
 
