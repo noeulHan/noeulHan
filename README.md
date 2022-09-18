@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Spring Project Server-000000?style=for-the-badge&logoColor=white">
  </a><br/>
  <a href="https://www.mangoboard.net/publish/6559931">
-  <img src="https://img.shields.io/badge/Spring Project Portfolio-000000?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Project PPT-000000?style=for-the-badge&logoColor=white">
  </a>
  <br/><br/><br/><br/>
 
